@@ -1,6 +1,6 @@
 # Hello everyone!
 
-I'm Claudio, nice to e-meet you!
+I'm Claudio, nice to e-meet you! I love to travel and know new cultures. I'm passionate of Data Science and Statistics.
 
 I gained a MSc in Data Science on February 2023 at University of Milano-Bicocca, and I'm looking for new working experiences!
 
