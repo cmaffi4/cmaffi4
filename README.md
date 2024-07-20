@@ -7,7 +7,7 @@
 
 ❤️‍🔥 I love to travel and know new cultures. I'm passionate of Data Science and Statistics.
 
-📚 In February 2023 I gained a MSc in Data Science at University of Milano-Bicocca, and I'm looking for new working experiences!
+📚 In February 2023 I gained a MSc in Data Science at University of Milano-Bicocca. Currently I'm a Data Scientist at BPER banca.
 
 📍 Here you will find some of the projects that I faced during my studies. Moreover, you will find a copy of my Master Thesis and the abstract of the project that I developed at Honda Research Institute.
 
