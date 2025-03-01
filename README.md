@@ -18,6 +18,11 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFF00.svg?style=flat&logo=sql&logoColor=white)
 
+**Cloud Computing Platforms 🌍**
+
+![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
+![GCP](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)
+
 
 **ML & DL frameworks 🖥️**
 
