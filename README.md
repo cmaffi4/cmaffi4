@@ -5,7 +5,7 @@
  <!-- About section -->
 ### I'm Claudio, nice to meet you! 👋🏻
 
-❤️‍🔥 I love to travel and know new cultures. I'm passionate of Data Science, Artifical Intelligence and Statistics.
+❤️‍🔥 I love traveling and knowing new cultures. I'm passionate of Data Science, Artifical Intelligence and Statistics.
 
 📚 In February 2023 I gained a MSc in Data Science at University of Milano-Bicocca. Currently I'm a AI developer at PwC Italy.
 
