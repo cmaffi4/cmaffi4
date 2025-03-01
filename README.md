@@ -20,7 +20,7 @@
 
 **Cloud Computing Platforms 🌍**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Microsoft%20Azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
