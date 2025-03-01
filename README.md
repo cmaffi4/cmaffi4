@@ -20,8 +20,8 @@
 
 **Cloud Computing Platforms 🌍**
 
-![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)
-![GCP](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
 **ML & DL frameworks 🖥️**
